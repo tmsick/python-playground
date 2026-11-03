@@ -8,7 +8,7 @@ authors = ["Tomoya Yoshioka <tomoya.y@icloud.com>"]
 python = "3.10"
 
 [tool.poetry.dev-dependencies]
-pylint = "^2.11.1"
+pylint = "^4.0.9"
 yapf = "^0.31.0"
 
 [build-system]
